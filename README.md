@@ -17,7 +17,7 @@ Successfully completed a hands-on project using Wireshark to capture and analyze
 
 <p align="center">
 Launch the utility: <br/>
-![image alt]([imagie_url](https://github.com/hass09an/CapturePacketLab/blob/main/Screenshot%202025-01-08%20150932.png?raw=true))
+![image alt](https://github.com/hass09an/CapturePacketLab/blob/main/Screenshot%202025-01-08%20150932.png?raw=true)
 
 <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
