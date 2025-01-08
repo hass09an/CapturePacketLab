@@ -15,11 +15,16 @@ Successfully completed a hands-on project using Wireshark to capture and analyze
 
 <h2>Program walk-through:</h2>
 
-Launch the Wireshark: <br/>
- ![Image Alt](https://github.com/hass09an/CapturePacketLab/blob/main/Screenshot%202025-01-08%20150932.png?raw=true)
-
-Start packets capture 
+The wired interface includes ethernet packet capture which begin with "en" in the wireshark <br/>
 ![Image Alt](https://github.com/hass09an/CapturePacketLab/blob/main/Screenshot%202025-01-08%20150932.png?raw=true)
+
+Wireshark app include controls to start packet capture; stop capture; save packet to a file and load capture file
+![Image Alt](https://github.com/hass09an/CapturePacketLab/blob/main/Screenshot%202025-01-08%20150932.png?raw=true)
+
+A capture can only be saved once the cpature has stopped
+![Image Alt](https://github.com/hass09an/CapturePacketLab/blob/da2d60a7e7f42822e72f3a830e7826d06bd68d23/Screenshot%202025-01-08%20155028.png)
+
+
 
 <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
