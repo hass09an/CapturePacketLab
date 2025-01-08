@@ -25,7 +25,7 @@ A capture can only be saved once the cpature has stopped
 ![Image Alt](https://github.com/hass09an/CapturePacketLab/blob/da2d60a7e7f42822e72f3a830e7826d06bd68d23/Screenshot%202025-01-08%20155028.png)
 
 To display only HTTPS traffic, used filter on TCP port (tcp.port == 443)
-
+![Image Alt] 
 
 
 <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
