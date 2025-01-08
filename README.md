@@ -15,7 +15,7 @@ Successfully completed a hands-on project using Wireshark to capture and analyze
 
 <h2>Program walk-through:</h2>
 
-Launch the utility: <br/>
+Launch the Wireshark: <br/>
  ![Image Alt](https://github.com/hass09an/CapturePacketLab/blob/main/Screenshot%202025-01-08%20150932.png?raw=true)
 
 Start packets capture 
