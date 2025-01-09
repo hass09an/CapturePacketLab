@@ -6,12 +6,13 @@ Successfully completed a hands-on project using Wireshark to capture and analyze
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>Wireshark</b> 
+
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b> Wireshark </b> 
+- <b> Virtual Machine </b> 
 
 <h2>Program walk-through:</h2>
 
