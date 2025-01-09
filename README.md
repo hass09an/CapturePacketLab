@@ -8,7 +8,6 @@ Successfully completed a hands-on project using Wireshark to capture and analyze
 
 - <b>Wireshark</b> 
 
-
 <h2>Environments Used</h2>
 
 - <b>wireshark</b> 
