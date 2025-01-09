@@ -11,7 +11,7 @@ Successfully completed a hands-on project using Wireshark to capture and analyze
 
 <h2>Environments Used</h2>
 
-- <b>Wireshark</b> 
+- <b>wireshark</b> 
 - <b>Virtual Machine</b> 
 
 <h2>Program walk-through:</h2>
