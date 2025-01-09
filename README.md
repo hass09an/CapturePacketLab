@@ -34,6 +34,8 @@ TLS Handshake display filter used to detect a website visit in a packet list: (t
 IP address is ued to filter to obtain packet information about website ( ip. addr == ip)
 ![Image Alt](https://github.com/hass09an/CapturePacketLab/blob/24307cb3a344f997080c17335429394e28c4c656/ip.addr%20%3D%3D%20IP.png)
 
+Finally, compound conditional should include parenthses to aviod order of excution errors
+![Imagine Alt](https://github.com/hass09an/CapturePacketLab/blob/17987bf0da1e28628a98491807f9e0d34671ea00/not%20.png)
 
 
 
