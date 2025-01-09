@@ -1,6 +1,6 @@
 Capture Packet Lab 
 <h2>Description</h2>
-Successfully completed a hands-on project using Wireshark to capture and analyze network traffic. Gained practical experience in configuring Wireshark on Linux, capturing live packets, and applying display and conditional filters to isolate specific protocols (TCP, UDP, HTTP) and IP traffic. Developed a foundational understanding of network communication, troubleshooting, and security analysis. This project enhanced my ability to monitor network performance, identify anomalies, and apply best practices in network security and traffic management.
+Successfully completed a hands-on project using Wireshark to capture and analyze network traffic. Gained practical experience in configuring Wireshark on Linux, capturing live packets, and applying display and conditional filters to isolate specific protocols (TCP, HTTP, HTTPS) and IP traffic. Developed a foundational understanding of network communication, troubleshooting, and security analysis. This project enhanced my ability to monitor network performance, identify anomalies, and apply best practices in network security and traffic management.
 <br />
 
 
