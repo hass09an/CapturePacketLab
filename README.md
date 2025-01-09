@@ -30,7 +30,7 @@ To display only HTTPS traffic, used filter on TCP port (tcp.port == 443)
 
 TLS Handshake display filter used to detect a website visit in a packet list: (tls.handshake.type == 1)
 
-![Image Alt]
+![Image Alt](https://github.com/hass09an/CapturePacketLab/blob/24307cb3a344f997080c17335429394e28c4c656/ip.addr%20%3D%3D%20IP.png)
 
 IP address is ued to filter to obtain packet information about website ( ip. addr == ip)
 
