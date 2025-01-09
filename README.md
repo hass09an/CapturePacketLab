@@ -28,6 +28,15 @@ A capture can only be saved once the cpature has stopped
 To display only HTTPS traffic, used filter on TCP port (tcp.port == 443)
 ![Image Alt](https://github.com/hass09an/CapturePacketLab/blob/72f74e021282c08b813eb3081393b332d02b2c7e/task%203.png)
 
+TLS Handshake display filter used to detect a website visit in a packet list: (tls.handshake.type == 1)
+
+![Image Alt]
+
+IP address is ued to filter to obtain packet information about website ( ip. addr == ip)
+
+![Image Alt]
+
+
 
 
 <!--
