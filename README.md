@@ -9,10 +9,10 @@ Successfully completed a hands-on project using Wireshark to capture and analyze
 - <b>Wireshark</b> 
 
 
-<h2>Environments Used </h2>
+<h2>Environments Used</h2>
 
-- <b> Wireshark </b> 
-- <b> Virtual Machine </b> 
+- <b>Wireshark</b> 
+- <b>Virtual Machine</b> 
 
 <h2>Program walk-through:</h2>
 
@@ -29,34 +29,6 @@ To display only HTTPS traffic, used filter on TCP port (tcp.port == 443)
 ![Image Alt](https://github.com/hass09an/CapturePacketLab/blob/72f74e021282c08b813eb3081393b332d02b2c7e/task%203.png)
 
 
-
-
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
 
 <!--
  ```diff
